@@ -20,4 +20,6 @@ This project is a frontend-only clone of Udemy, built entirely with HTML and CSS
 
 Using Animations and MediaQueries for adjusting the screen size.
 
+Using favicon image
+
             **Thanks for visiting My Udemy Clone Website Project**
