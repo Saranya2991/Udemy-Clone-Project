@@ -1320,9 +1320,10 @@ body {
     }
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:800px) {
     .course-card {
         flex-basis: 40%;
+        margin-left: 20%;
     }
 
     .categories {
